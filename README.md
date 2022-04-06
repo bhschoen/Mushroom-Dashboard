@@ -1,6 +1,8 @@
 # Mushroom-Dashboard
 Application for visualizing mushroom environmental sensor data.
-
+<p align="center">
+  <img src="./images/mushroom_dash.png" alt="Mushroom Dashboard" width="738">
+</p>
 Steps for running:
 * Install dependencies in requirements.txt
 * 
