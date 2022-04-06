@@ -8,7 +8,7 @@ Application for visualizing mushroom environmental sensor data.
 
 Steps for running:
 * Install dependencies in requirements.txt
-* Luanch and run Mushroom.ipynb
+* Launch and run Mushroom.ipynb
   * Select sensors from dropdown
   * Modify rolling average range with slider
   * Select and de-select items on legend
