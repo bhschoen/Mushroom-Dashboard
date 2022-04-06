@@ -4,7 +4,7 @@ Application for visualizing mushroom environmental sensor data.
 <p align="center">
   <img src="./images/mushroom_dash.png" alt="Mushroom Dashboard">
 </p>
-<kbd>
+</kbd>
 Steps for running:
 * Install dependencies in requirements.txt
 * 
