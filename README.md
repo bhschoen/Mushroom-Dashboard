@@ -7,7 +7,8 @@ Application for visualizing mushroom environmental sensor data.
 
 
 Steps for running:
+* Open Jupyter-lab
 * Install dependencies in requirements.txt
-* Open notebook and run
+* Luanch and run Mushroom.ipynb
 
 Plotting created primarily with [Dash Plotly](https://github.com/plotly/dash)
