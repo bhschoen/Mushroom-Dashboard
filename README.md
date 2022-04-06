@@ -8,6 +8,6 @@ Application for visualizing mushroom environmental sensor data.
 
 Steps for running:
 * Install dependencies in requirements.txt
-* 
+* Open notebook and run
 
 Plotting created primarily with [Dash Plotly](https://github.com/plotly/dash)
