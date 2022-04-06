@@ -2,7 +2,7 @@
 Application for visualizing mushroom environmental sensor data.
 
 <kbd>
-  <img src="./images/mushroom_dash.png" alt="Mushroom Dashboard">
+  <img src="./images/mushroomDash.png" alt="Mushroom Dashboard">
 </kbd>
 
 
