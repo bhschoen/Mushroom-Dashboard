@@ -7,8 +7,9 @@ Application for visualizing mushroom environmental sensor data.
 
 
 Steps for running:
+* Launch jupyter-lab
 * Install dependencies in requirements.txt
-* Launch and run Mushroom.ipynb
+* Run Mushroom.ipynb
   * Select sensors from dropdown
   * Modify rolling average range with slider
   * Select and de-select items on legend
