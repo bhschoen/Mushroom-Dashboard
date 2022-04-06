@@ -10,7 +10,7 @@ Steps for running:
 * Install dependencies in requirements.txt
 * Luanch and run Mushroom.ipynb
   * Select sensors from dropdown
-  * Modify Rolling Average Range with Slider
+  * Modify rolling average range with slider
   * Select and de-select items on legend
 
 
