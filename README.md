@@ -13,6 +13,7 @@ Steps for running:
   * Select sensors from dropdown
   * Modify rolling average range with slider
   * Select and de-select items on legend
+  * Hover over data to display the value
 
 
 Plotting created primarily with [Dash Plotly](https://github.com/plotly/dash)
